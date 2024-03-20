@@ -8,17 +8,18 @@ import DevelopedBy from "~/components/DevelopedBy.tsx";
 import Globe from "~/components/Globe.tsx";
 import Socials from "~/components/Socials.tsx";
 import Goals from "~/components/Goals.tsx";
+import More from "~/components/More.tsx";
 ---
 
 <MainLayout>
   <main
-    class="container mx-auto grid grid-cols-4 md:grid-cols-8 xl:grid-cols-12 grid-rows-8 md:grid-rows-5 xl:grid-rows-3 gap-4 md:gap-6 xl:gap-6 p-4 min-h-[140rem] sm:min-h-[100rem] md:min-h-[70rem] lg:min-h-[60rem] xl:min-h-[50rem]"
+      class="container mx-auto grid grid-cols-4 md:grid-cols-8 xl:grid-cols-12 grid-rows-8 md:grid-rows-5 xl:grid-rows-3 gap-4 md:gap-6 xl:gap-6 p-4 min-h-auto sm:min-h-auto md:min-h-auto lg:min-h-auto xl:min-h-auto"
   >
     <div class="card col-span-4 row-span-1 md:row-span-2">
         <Info />
     </div>
     <div class="card col-span-4 row-span-1">
-      <About />
+        <About />
     </div>
     <div class="card col-span-4 row-span-1">
         <WhoWeAre />
