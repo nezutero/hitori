@@ -4,27 +4,27 @@ import { Simple } from "./icons";
 const stacks = [
     {
         name: "Discord",
-        category: "Server",
+        category: "Join our server",
         icon: Simple.IconDiscord,
-        url: "https://discord.com",
+        url: "https://discord.gg/BsxFVYDdNE",
     },
     {
         name: "Telegram",
-        category: "Group | Chat",
+        category: "Join our group",
         icon: Simple.IconTelegram,
-        url: "https://t.me",
+        url: "https://t.me/hitori_club",
     },
     {
         name: "GitHub",
-        category: "Source Code",
+        category: "Source code",
         icon: Simple.IconGitHub,
-        url: "https://github.com",
+        url: "https://github.com/kenjitheman/hitori",
     },
     {
         name: "MyAnimeList",
-        category: "We on MAL",
+        category: "Join club on MAL",
         icon: Simple.IconMyAnimeList,
-        url: "https://myanimelist.net",
+        url: "https://myanimelist.net/clubs.php?cid=91191",
     },
     {
         name: "Buy Me A Coffee",
@@ -36,7 +36,7 @@ const stacks = [
         name: "Mail",
         category: "Contact",
         icon: Simple.IconMail,
-        url: "mailto:#",
+        url: "mailto:im@kenjitheman.dev",
     },
 ];
 
