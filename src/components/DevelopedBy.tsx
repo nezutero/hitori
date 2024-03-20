@@ -61,13 +61,13 @@ export default () => {
                 <span>
                     developed by{" "}
                     <a
-                        href="https://github.com/kenjitheman"
+                        href="https://github.com/nezutero"
                         className="inline-block transition duration-300 hover:-translate-y-px outline-none hover:text-primary-10 focus-visible:text-primary-10"
                         target="_blank"
                         aria-label="Developer"
                     >
                         {" "}
-                        kenjitheman
+                        nezutero
                     </a>
                 </span>
             </div>

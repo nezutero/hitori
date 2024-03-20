@@ -4,12 +4,12 @@
     "version": "0.0.1",
     "license": "MIT",
     "author": {
-        "name": "kenjitheman",
-        "url": "https://github.com/kenjitheman"
+        "name": "nezutero",
+        "url": "https://github.com/nezutero"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/kenjitheman/hitori"
+        "url": "https://github.com/nezutero/hitori"
     },
     "scripts": {
         "dev": "astro dev",

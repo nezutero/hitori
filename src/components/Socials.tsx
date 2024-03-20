@@ -12,19 +12,19 @@ const stacks = [
         name: "Telegram",
         category: "Join our group",
         icon: Simple.IconTelegram,
-        url: "https://t.me/hitori_club",
+        url: "https://t.me/nezutero",
     },
     {
         name: "GitHub",
         category: "Source code",
         icon: Simple.IconGitHub,
-        url: "https://github.com/kenjitheman/hitori",
+        url: "https://github.com/nezutero/hitori",
     },
     {
         name: "MyAnimeList",
         category: "Join club on MAL",
         icon: Simple.IconMyAnimeList,
-        url: "https://myanimelist.net/clubs.php?cid=91191",
+        url: "https://myanimelist.net/users/nezutero",
     },
     {
         name: "Buy Me A Coffee",
@@ -36,7 +36,7 @@ const stacks = [
         name: "Mail",
         category: "Contact",
         icon: Simple.IconMail,
-        url: "mailto:im@kenjitheman.dev",
+        url: "mailto:nezutero@gmail.com",
     },
 ];
 
